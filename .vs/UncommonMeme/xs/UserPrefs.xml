@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{EEFA7000-CC70-1B3E-BEAD-7706D44DBF2A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/menuStart.cs">
+    <Files>
+      <File FileName="Assets/Question.cs" Line="7" Column="5" />
+      <File FileName="Assets/GameManager.cs" Line="34" Column="10" />
+      <File FileName="Assets/menuStart.cs" Line="7" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
